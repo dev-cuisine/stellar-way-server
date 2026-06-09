@@ -55,7 +55,7 @@ Health check: [https://stellar-way-server.onrender.com](https://stellar-way-serv
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/stellar-way-server.git
+git clone https://github.com/dev-cuisine/stellar-way-server
 cd stellar-way-server
 npm install
 ```
@@ -98,7 +98,7 @@ SSLCOMMERZ_STORE_PASSWORD=your_store_password
 SSLCOMMERZ_IS_LIVE=false
 ```
 
-> ⚠️ **Never commit your `.env` file.** Add it to `.gitignore`.
+
 
 ### Run Development Server
 
@@ -243,4 +243,4 @@ This project is private and proprietary. All rights reserved.
 
 ---
 
-> Part of the [Stellar Way](https://github.com/imamhossenbu/stellar-way) platform · Powered by [Express.js](https://expressjs.com) & [Socket.IO](https://socket.io)
+> Part of the [Stellar Way](https://github.com/dev-cuisine/stellar-way-server) platform · Powered by [Express.js](https://expressjs.com) & [Socket.IO](https://socket.io)
