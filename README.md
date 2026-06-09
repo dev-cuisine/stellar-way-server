@@ -188,7 +188,7 @@ stellar-way-server/
 
 ---
 
-## 🔌 Real-Time Events (Socket.IO)
+##  Real-Time Events (Socket.IO)
 
 | Event             | Direction       | Description                 |
 | ----------------- | --------------- | --------------------------- |
