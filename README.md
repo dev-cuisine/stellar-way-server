@@ -148,7 +148,7 @@ stellar-way-server/
 
 ---
 
-## 🔌 API Base URL
+## API Base URL
 
 ```
 /api/v1
