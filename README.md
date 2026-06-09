@@ -199,7 +199,7 @@ stellar-way-server/
 
 ---
 
-## 🌍 Allowed Origins (CORS)
+## Allowed Origins (CORS)
 
 The following frontend origins are whitelisted:
 
