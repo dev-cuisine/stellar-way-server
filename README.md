@@ -1,10 +1,10 @@
-# 🚀 Stellar Way — Backend Server
+#  Stellar Way — Backend Server
 
 The REST API & real-time Socket.IO server powering the **Stellar Way** e-commerce and delivery platform. Built with **Express.js**, **TypeScript**, and **MongoDB**.
 
 ---
 
-## 🌐 Live API
+##  Live API
 
 > `https://stellar-way-server.onrender.com/api/v1`
 
@@ -12,17 +12,17 @@ Health check: [https://stellar-way-server.onrender.com](https://stellar-way-serv
 
 ---
 
-## ✨ Key Capabilities
+## Key Capabilities
 
-- 🔐 **Authentication & Authorization** — JWT-based auth with bcrypt password hashing, cookie sessions
-- 📦 **Order Management** — Full order lifecycle: create, track, update, complete
-- 🛵 **Rider System** — Rider applications, assignments, and real-time location updates
-- 💬 **Real-Time Messaging** — Socket.IO for live customer ↔ rider chat and order status push
-- 🖼️ **File Uploads** — Image uploads via Multer + Cloudinary
-- 💳 **Payment Gateway** — Stripe and SSLCommerz integration
-- 📧 **Email Notifications** — Transactional emails via Nodemailer
-- 🔳 **QR Code Generation** — Order QR codes via the `qrcode` library
-- 🌍 **CORS-protected** — Whitelist of allowed frontend origins
+-  **Authentication & Authorization** — JWT-based auth with bcrypt password hashing, cookie sessions
+-  **Order Management** — Full order lifecycle: create, track, update, complete
+-  **Rider System** — Rider applications, assignments, and real-time location updates
+-  **Real-Time Messaging** — Socket.IO for live customer ↔ rider chat and order status push
+- **File Uploads** — Image uploads via Multer + Cloudinary
+-  **Payment Gateway** — Stripe and SSLCommerz integration
+-  **Email Notifications** — Transactional emails via Nodemailer
+-  **QR Code Generation** — Order QR codes via the `qrcode` library
+-  **CORS-protected** — Whitelist of allowed frontend origins
 
 ---
 
