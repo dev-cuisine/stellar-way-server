@@ -228,7 +228,7 @@ This server is hosted on **Render**.
 
 ---
 
-## 🔐 Security Notes
+##  Security Notes
 
 - All passwords are hashed using **bcrypt** before storage
 - JWT access tokens are short-lived; refresh tokens handle re-authentication
@@ -237,7 +237,7 @@ This server is hosted on **Render**.
 
 ---
 
-## 📄 License
+##  License
 
 This project is private and proprietary. All rights reserved.
 
