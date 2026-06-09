@@ -211,7 +211,7 @@ The following frontend origins are whitelisted:
 
 ---
 
-## 🚢 Deployment
+## Deployment
 
 This server is hosted on **Render**.
 
